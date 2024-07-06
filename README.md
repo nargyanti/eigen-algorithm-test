@@ -1,6 +1,6 @@
-# eigen-algorithm-test
+# Eigen Algorithm Test
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains the solutions for the algorithm test for the Backend Developer technical test at PT Eigen Tri Mathema.
 
 ## Recommended IDE Setup
 
